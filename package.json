@@ -1,0 +1,19 @@
+{
+  "name": "telephonesmoothie.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony-telljohann/telephonesmoothie.com-v2.git"
+  },
+  "author": "Anthony Telljohann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthony-telljohann/telephonesmoothie.com-v2/issues"
+  },
+  "homepage": "https://github.com/anthony-telljohann/telephonesmoothie.com-v2#readme"
+}
