@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anthony-telljohann/telephonesmoothie.com-v2/issues"
   },
-  "homepage": "https://github.com/anthony-telljohann/telephonesmoothie.com-v2#readme"
+  "homepage": "https://github.com/anthony-telljohann/telephonesmoothie.com-v2#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "0.10.0"
+  }
 }
